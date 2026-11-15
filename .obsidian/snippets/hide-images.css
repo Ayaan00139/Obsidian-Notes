@@ -1,0 +1,7 @@
+.nav-file-title[data-path$=".png"],
+.nav-file-title[data-path$=".jpg"],
+.nav-file-title[data-path$=".jpeg"],
+.nav-file-title[data-path$=".gif"],
+.nav-file-title[data-path$=".webp"] {
+    display: none !important;
+}
